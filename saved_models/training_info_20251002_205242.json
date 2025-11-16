@@ -1,0 +1,15 @@
+{
+  "timestamp": "20251002_205242",
+  "current_iteration": 10000,
+  "final_iteration": 10000,
+  "hyperparameters": {
+    "batch_size": 32,
+    "block_size": 512,
+    "d_model": 512,
+    "h": 8,
+    "Nx": 6,
+    "dropout_rate": 0.2,
+    "lr_rate": 0.001
+  },
+  "training_time": "2025-10-02 20:52:43"
+}

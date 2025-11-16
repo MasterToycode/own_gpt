@@ -1,0 +1,18 @@
+{
+  "timestamp": "20251002_182031",
+  "current_iteration": 5000,
+  "final_iteration": 5000,
+  "hyperparameters": {
+    "batch_size": 32,
+    "block_size": 512,
+    "d_model": 512,
+    "h": 8,
+    "Nx": 6,
+    "dropout_rate": 0.2,
+    "lr_rate": 0.0001,
+    "training_type": "SFT",
+    "cot_samples": 1000
+  },
+  "training_time": "2025-10-02 18:20:32",
+  "training_type": "SFT"
+}
